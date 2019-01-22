@@ -1,1 +1,1 @@
-# fabric-sdk-go-redis-user-keystore
+# fabric-sdk-go-custom-user-keystore
